@@ -1,4 +1,4 @@
-// Functional Array and Loop
+// Functional Array and Loop here
 const a = 10;
 const b = 20;
 
